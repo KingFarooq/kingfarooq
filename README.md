@@ -12,7 +12,7 @@
 
 <br>
 
-## `whoami`
+<img width="100%" src="assets/sec-whoami.svg" alt="whoami" />
 
 CS student with a FinTech minor at Kennesaw State University and an undergraduate researcher in the First-Year Scholars Program.
 
@@ -20,11 +20,11 @@ I like projects that connect software to the physical world—from understanding
 
 Based in Alpharetta, GA. Open to internships and research opportunities, on-site or remote.
 
----
+<br>
 
-## Featured Projects
+<img width="100%" src="assets/sec-projects.svg" alt="Featured Projects" />
 
-### AI Traffic Congestion Optimization System
+<img width="100%" src="assets/proj-1.svg" alt="AI Traffic Congestion Optimization System - Python, TensorFlow, OpenCV, LabelImg" />
 
 Built a computer vision proof of concept to evaluate urban traffic bottlenecks from pre-captured road imagery.
 
@@ -32,9 +32,7 @@ Built a computer vision proof of concept to evaluate urban traffic bottlenecks f
 - Trained a custom CNN using the Adam optimizer and dropout layers.
 - Presented the proof of concept to industry partners at an Edge Solutions event.
 
-`Python` · `TensorFlow` · `OpenCV` · `LabelImg`
-
-### EMG-Powered Robotic Prosthetic Hand
+<img width="100%" src="assets/proj-2.svg" alt="EMG-Powered Robotic Prosthetic Hand - Arduino, C++, SolidWorks, MyoWare 2.0" />
 
 Co-led a three-person team building a prosthetic hand controlled by muscle signals.
 
@@ -42,9 +40,7 @@ Co-led a three-person team building a prosthetic hand controlled by muscle signa
 - Programmed Arduino control logic to translate analog signals from MyoWare 2.0 sensors into motor positions.
 - Delivered the prototype hardware and code to a Georgia Tech research laboratory.
 
-`Arduino` · `C++` · `SolidWorks` · `MyoWare 2.0`
-
-### Erase the Cars, Rebuild the Road
+<img width="100%" src="assets/proj-3.svg" alt="Erase the Cars, Rebuild the Road - Python, Gaussian Splatting, Image Inpainting, Computer Vision" />
 
 Researching 3D scene reconstruction and moving-object removal using autonomous vehicle data.
 
@@ -52,57 +48,47 @@ Researching 3D scene reconstruction and moving-object removal using autonomous v
 - Evaluating road visibility across synchronized camera feeds.
 - Cataloging frame datasets, inspecting image masks, and running controlled experiments comparing single-image filling with multi-view reconstruction.
 
-`Python` · `Gaussian Splatting` · `Image Inpainting` · `Computer Vision`
+<br>
 
----
+<img width="100%" src="assets/sec-experience.svg" alt="Experience" />
 
-## Experience
-
-### Undergraduate Research Assistant · Kennesaw State University
-<sub>Sep 2026 – Present · Marietta, GA · Hybrid</sub>
+<img width="100%" src="assets/exp-1.svg" alt="Undergraduate Research Assistant - Kennesaw State University, Marietta, GA, Hybrid, Sep 2026 to Present" />
 
 Selected for the First-Year Scholars Program under Dr. Soomok Lee. Working on the scene-reconstruction research featured above.
 
-### Strategy Enablement Analyst Intern · VDart
-<sub>Aug 2025 – Feb 2026 · Alpharetta, GA · Hybrid</sub>
+<img width="100%" src="assets/exp-2.svg" alt="Strategy Enablement Analyst Intern - VDart, Alpharetta, GA, Hybrid, Aug 2025 to Feb 2026" />
 
 - Designed and prototyped AI chatbot concepts for potential integration across internal company channels.
 - Developed early-stage proof-of-concept workflows for AI content automation and agentic applications.
 - Collaborated across agile development sprints to support the enterprise Marketing Academy platform rollout.
 
-### Marketing and Research Intern · KC Medical Care
-<sub>May 2025 – Oct 2025 · Alpharetta, GA</sub>
+<img width="100%" src="assets/exp-3.svg" alt="Marketing and Research Intern - KC Medical Care, Alpharetta, GA, May 2025 to Oct 2025" />
 
 - Designed and launched HTML/CSS web pages for multiple clinical branches.
 - Collected and structured local market data to support localized SEO and social media outreach.
 - Maintained confidentiality across patient-facing marketing assets and documentation.
 
-### Store Associate / Sales Support Representative · Office Depot
-<sub>Feb 2026 – Sep 2026 · Roswell, GA · Part-time</sub>
+<img width="100%" src="assets/exp-4.svg" alt="Store Associate / Sales Support Representative - Office Depot, Roswell, GA, Part-time, Feb 2026 to Sep 2026" />
 
 Provided technical troubleshooting and hardware/software recommendations, explaining solutions clearly to non-technical customers in a high-traffic retail setting.
 
-### Certified Youth Soccer Referee · U.S. Soccer Federation
-<sub>Aug 2023 – Dec 2024 · Seasonal</sub>
+<img width="100%" src="assets/exp-5.svg" alt="Certified Youth Soccer Referee - U.S. Soccer Federation, Seasonal, Aug 2023 to Dec 2024" />
 
 Officiated competitive youth matches, enforced safety standards, and resolved on-field disputes under pressure.
 
----
+<br>
 
-## Tech Stack
+<img width="100%" src="assets/sec-stack.svg" alt="Tech Stack" />
 
-| Area | Technologies |
-| :--- | :--- |
-| Languages | Python, JavaScript, C++, R |
-| Machine Learning & Vision | TensorFlow, OpenCV, NumPy, Pandas, LabelImg |
-| Web | React, HTML, CSS, Supabase, Three.js, GitHub Pages |
-| Embedded & CAD | Arduino, ESP32, SolidWorks |
-| Development Tools | Git, GitHub, VS Code |
+<img width="100%" src="assets/stack.svg" alt="Languages: Python, JavaScript, C++, R. Machine Learning and Vision: TensorFlow, OpenCV, NumPy, Pandas, LabelImg. Web: React, HTML, CSS, Supabase, Three.js, GitHub Pages. Embedded and CAD: Arduino, ESP32, SolidWorks. Development Tools: Git, GitHub, VS Code." />
 
-## Outside of Code
+<br>
 
-**Soccer** · 10 years of competitive play · 5-year team captain & MVP recipient  
-**Martial Arts** · Taekwondo black belt & demonstration team member · 2 years of boxing
+<img width="100%" src="assets/sec-outside.svg" alt="Outside of Code" />
+
+<img width="100%" src="assets/outside.svg" alt="Soccer: 10 years of competitive play, 5-year team captain and MVP recipient. Martial arts: Taekwondo black belt and demonstration team member, 2 years of boxing." />
+
+<br>
 
 <p align="center">
   <i>Learn by building. Ship it. Repeat.</i>
