@@ -1,146 +1,117 @@
- <div align="center">
+<!-- Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Farooq%20Anwar&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Embedded%20%C2%B7%20Full-Stack&descAlignY=60&descSize=20&animation=fadeIn" alt="Farooq Anwar banner" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Farooq%20Anwar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20%26%20FinTech%20%40%20KSU%20%E2%80%A2%20AI%20%C2%B7%20CV%20%C2%B7%20Embedded&descAlignY=58&descSize=18" width="100%" alt="Farooq Anwar — Computer Science, FinTech, AI, Computer Vision, and Embedded Systems" />
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://kingfarooq.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=700&lines=CS+%26+FinTech+%40+Kennesaw+State;Training+CNNs+%F0%9F%A7%A0;Wiring+Arduino+prosthetics+%F0%9F%A6%BE;Gaussian+Splatting+%26+3D+reconstruction+%F0%9F%9B%A3%EF%B8%8F;Shipping+full-stack+apps+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://linkedin.com/in/farooqmohammadanwar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://kingfarooq.github.io/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:fmanwar3710@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=kingfarooq&style=for-the-badge&color=2c5364&label=VISITORS" alt="Profile visitors" />
-
-<br/><br/>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Building+AI+that+sees+the+world.;Computer+Vision+%2B+Embedded+Systems.;Turning+muscle+signals+into+motion.;Always+shipping+something+new." alt="Typing animation" /></a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/farooqmohammadanwar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://kingfarooq.github.io/"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=githubpages&logoColor=black" alt="Portfolio"></a>
+  <a href="mailto:fmanwar3710@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=kingfarooq&label=Profile%20views&color=ff2bd6&style=for-the-badge" alt="Profile views">
+</p>
 
 ---
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
-
-<h3>🧑‍🚀 Who am I?</h3>
+## ⚡ whoami
 
 ```python
 class Farooq:
     def __init__(self):
-        self.school = "Kennesaw State University"
-        self.major = "B.S. Computer Science, FinTech Minor"
-        self.role = "Undergraduate Research Assistant"
-        self.focus = [
-            "AI",
-            "Computer Vision",
-            "Embedded Systems"
-        ]
-        self.current = (
-            "3D scene reconstruction "
-            "with Gaussian Splatting"
-        )
-        self.hobbies = [
-            "soccer",
-            "boxing",
-            "taekwondo 🥋"
-        ]
+        self.school    = "Kennesaw State University"
+        self.major     = "Computer Science"
+        self.minor     = "FinTech"
+        self.focus     = ["AI", "Computer Vision", "Embedded Systems", "Full-Stack"]
+        self.research  = "3D scene reconstruction @ KSU First-Year Scholars"
+        self.off_duty  = ["Soccer ⚽", "Boxing 🥊", "Taekwondo (black belt 🥋)"]
+        self.status    = "Building stuff + open to internships & research"
 
-    def motto(self):
-        return "Curiosity + hands-on building = impact."
+    def philosophy(self):
+        return "Learn by building. Ship it. Repeat."
 ```
 
-</td>
-<td width="45%" valign="top">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=kingfarooq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7&count_private=true" width="100%" alt="GitHub statistics" />
+## 🔭 Currently
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kingfarooq&theme=tokyonight&hide_border=true&background=0D1117&ring=4FC3F7&fire=FF6F00&currStreakLabel=4FC3F7" width="100%" alt="GitHub contribution streak" />
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| 🔬 **Researching** | Moving-object removal + 3D scene reconstruction on autonomous vehicle data (Gaussian Splatting, multi-view inpainting) |
+| 🎓 **Studying** | CS + FinTech at Kennesaw State |
+| 🤖 **Previously** | Strategy Enablement Analyst Intern @ VDart, prototyping AI chatbots & agentic workflows |
+| 🌱 **Looking for** | Internships & research opportunities |
 
 ---
 
-<div align="center">
-
-## 🛠️ Arsenal
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,r&theme=dark" alt="Python, JavaScript, C++, HTML, CSS, and R" />
-
-**ML / CV / Data**
-
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,numpy,pandas&theme=dark" alt="TensorFlow, OpenCV, NumPy, and Pandas" />
-
-**Hardware & Tools**
-
-<img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,linux&theme=dark" alt="Arduino, Git, GitHub, VS Code, and Linux" />
-
-</div>
-
----
-
-## 🚀 Featured Builds
-
-<div align="center">
-
-<a href="https://github.com/kingfarooq/ai-traffic-optimization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kingfarooq&repo=ai-traffic-optimization&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7" alt="AI Traffic Optimization repository" /></a>
-<a href="https://github.com/kingfarooq/emg-prosthetic-hand"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kingfarooq&repo=emg-prosthetic-hand&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=4FC3F7" alt="EMG Prosthetic Hand repository" /></a>
-
-</div>
+## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="33%" valign="top">
-
-<h3>🚗 AI Traffic Congestion Optimization</h3>
-
-Custom CNN using TensorFlow and OpenCV to detect urban bottlenecks from road imagery.
-
-`Python` `TensorFlow` `OpenCV`
-
-</td>
-<td width="33%" valign="top">
-
-<h3>🦾 EMG Robotic Prosthetic Hand</h3>
-
-A 3D-printed robotic hand translating muscle signals into servo motion. Delivered to a Georgia Tech lab.
-
-`Arduino` `C++` `SolidWorks`
-
-</td>
-<td width="33%" valign="top">
-
-<h3>🛣️ Erase the Cars, Rebuild the Road</h3>
-
-Research exploring 3D scene reconstruction and object removal using Gaussian Splatting.
-
-`Python` `Computer Vision` `Inpainting`
-
-</td>
-</tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🚗 AI Traffic Optimizer</h3>
+      <p>Custom CNN that spots urban traffic bottlenecks from road imagery. Trained with Adam + dropout.</p>
+      <sub><code>Python</code> <code>TensorFlow</code> <code>OpenCV</code> <code>CNN</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🦾 EMG Robotic Prosthetic Hand</h3>
+      <p>3D-printed hand that turns muscle signals (MyoWare 2.0) into servo movement. Delivered to a Georgia Tech research lab.</p>
+      <sub><code>Arduino</code> <code>C++</code> <code>SolidWorks</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛣️ Erase the Cars, Rebuild the Road</h3>
+      <p>First-Year Scholar research: delete moving cars from driving scenes and rebuild the empty road in 3D.</p>
+      <sub><code>Python</code> <code>Gaussian Splatting</code> <code>Inpainting</code></sub>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<div align="center">
+## 🛠️ Tech Stack
 
-## 🐍 Contribution Trail
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,html,css,r,react,supabase,tensorflow,pytorch,opencv,numpy,pandas,arduino,git,github,vscode&perline=9" alt="Tech stack icons" />
+</p>
 
-<img src="https://raw.githubusercontent.com/kingfarooq/kingfarooq/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+<details>
+<summary><b>📂 Full breakdown</b></summary>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kingfarooq&theme=tokyo-night&bg_color=0D1117&color=4FC3F7&line=4FC3F7&point=FF6F00&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+| Category | Tools |
+|---|---|
+| **Languages** | Python, JavaScript, C++, HTML/CSS, R |
+| **ML & Vision** | TensorFlow, PyTorch, OpenCV, NumPy, Pandas |
+| **Web** | React, Supabase |
+| **Embedded & CAD** | Arduino, SolidWorks |
+| **Tools** | Git, GitHub, VS Code |
 
-</div>
+</details>
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-### 💬 Let's build something
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kingfarooq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff2bd6" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingfarooq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff" alt="Top Languages" />
+</p>
 
-<a href="https://linkedin.com/in/farooqmohammadanwar"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://kingfarooq.github.io/"><img src="https://img.shields.io/badge/View_Portfolio-111111?style=for-the-badge&logo=firefox&logoColor=white" alt="View portfolio" /></a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kingfarooq&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff2bd6&currStreakLabel=00f0ff" alt="GitHub Streak" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Decorative footer" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingfarooq&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f0ff&line=ff2bd6&point=ffffff" alt="Contribution graph" />
+</p>
 
-</div>
+---
+
+<p align="center">
+  <i>Driven by curiosity, hands-on learning, and building tech that makes a real impact.</i>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="footer" />
