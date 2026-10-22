@@ -14,23 +14,30 @@
 
 ## `whoami`
 
-```text
-$ whoami
+```yaml
+farooq:
+  education:
+    university: Kennesaw State University
+    major: Computer Science
+    minor: FinTech
 
-┌──────────────────────────────────────────────────────────────┐
-│ farooq@ksu                                                   │
-│ ----------                                                   │
-│ school    Kennesaw State University                          │
-│ major     Computer Science                                   │
-│ minor     FinTech                                            │
-│ focus     AI / Computer Vision / Embedded / Full-Stack       │
-│ research  3D scene reconstruction (First-Year Scholars)      │
-│ off-duty  soccer, boxing, taekwondo (black belt)             │
-│ status    building, open to internships + research           │
-│ motto     learn by building. ship it. repeat.                │
-└──────────────────────────────────────────────────────────────┘
+  building:
+    - AI & computer vision
+    - Embedded systems
+    - Full-stack applications
 
-$ _
+  researching:
+    program: First-Year Scholars
+    focus: 3D scene reconstruction
+    methods: Gaussian Splatting & multi-view inpainting
+
+  beyond_the_keyboard:
+    - Soccer player & former team captain
+    - Taekwondo black belt
+    - Boxing
+
+  open_to: Internships & research opportunities
+  mindset: "Learn by building. Ship it. Repeat."
 ```
 
 ## Currently
