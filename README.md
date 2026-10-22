@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Farooq%20Anwar&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20Embedded%20%C2%B7%20Full-Stack&descAlignY=60&descSize=20&animation=fadeIn" alt="Farooq Anwar banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b0b14&stroke=ff2a6d&strokeWidth=3&height=200&section=header&text=Farooq%20Anwar&fontSize=70&fontColor=05d9e8&fontAlignY=42&desc=Computer%20Science%20%2B%20Fintech&descAlignY=68&descSize=24&descColor=ff2a6d&animation=fadeIn" alt="Farooq Anwar - Computer Science + Fintech" />
+
+```
+==============================================================
+  VOL. 01  //  ALPHARETTA, GA  //  EDITION 2026  //  ONLINE
+==============================================================
+```
 
 <a href="https://linkedin.com/in/farooqmohammadanwar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://kingfarooq.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
@@ -8,7 +14,9 @@
 
 </div>
 
-## `whoami`
+<br>
+
+## FRONT PAGE // `whoami`
 
 CS student with a FinTech minor at Kennesaw State University and an undergraduate researcher in the First-Year Scholars Program.
 
@@ -16,9 +24,13 @@ I like projects that connect software to the physical world—from understanding
 
 Based in Alpharetta, GA. Open to internships and research opportunities, on-site or remote.
 
-## Featured Projects
+```
+--------------------------------------------------------------
+```
 
-### 🚦 AI Traffic Congestion Optimization System
+## HEADLINES // Featured Projects
+
+### NO. 01 :: AI Traffic Congestion Optimization System
 
 Built a computer vision proof of concept to evaluate urban traffic bottlenecks from pre-captured road imagery.
 
@@ -28,7 +40,7 @@ Built a computer vision proof of concept to evaluate urban traffic bottlenecks f
 
 `Python` · `TensorFlow` · `OpenCV` · `LabelImg`
 
-### 🦾 EMG-Powered Robotic Prosthetic Hand
+### NO. 02 :: EMG-Powered Robotic Prosthetic Hand
 
 Co-led a three-person team building a prosthetic hand controlled by muscle signals.
 
@@ -38,7 +50,7 @@ Co-led a three-person team building a prosthetic hand controlled by muscle signa
 
 `Arduino` · `C++` · `SolidWorks` · `MyoWare 2.0`
 
-### 🛣️ Erase the Cars, Rebuild the Road
+### NO. 03 :: Erase the Cars, Rebuild the Road
 
 Researching 3D scene reconstruction and moving-object removal using autonomous vehicle data.
 
@@ -48,7 +60,11 @@ Researching 3D scene reconstruction and moving-object removal using autonomous v
 
 `Python` · `Gaussian Splatting` · `Image Inpainting` · `Computer Vision`
 
-## Experience
+```
+--------------------------------------------------------------
+```
+
+## THE RECORD // Experience
 
 ### Undergraduate Research Assistant · Kennesaw State University
 <sub>Sep 2026 – Present · Marietta, GA · Hybrid</sub>
@@ -79,7 +95,11 @@ Provided technical troubleshooting and hardware/software recommendations, explai
 
 Officiated competitive youth matches, enforced safety standards, and resolved on-field disputes under pressure.
 
-## Tech Stack
+```
+--------------------------------------------------------------
+```
+
+## CLASSIFIEDS // Tech Stack
 
 | Area | Technologies |
 | :--- | :--- |
@@ -89,15 +109,15 @@ Officiated competitive youth matches, enforced safety standards, and resolved on
 | Embedded & CAD | Arduino, ESP32, SolidWorks |
 | Development Tools | Git, GitHub, VS Code |
 
-## Outside of Code
+## SPORTS DESK // Outside of Code
 
-⚽ 10 years of competitive soccer · 5-year team captain & MVP recipient  
-🥋 Taekwondo black belt & demonstration team member · 2 years of boxing
+**Soccer** · 10 years of competitive play · 5-year team captain & MVP recipient  
+**Martial Arts** · Taekwondo black belt & demonstration team member · 2 years of boxing
 
----
+<br>
 
 <p align="center">
   <i>Learn by building. Ship it. Repeat.</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" alt="Footer banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b0b14&stroke=05d9e8&strokeWidth=3&height=60&section=footer" alt="Footer banner" />
