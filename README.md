@@ -1,22 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b0b14&stroke=ff2a6d&strokeWidth=3&height=200&section=header&text=Farooq%20Anwar&fontSize=70&fontColor=05d9e8&fontAlignY=42&desc=Computer%20Science%20%2B%20Fintech&descAlignY=68&descSize=24&descColor=ff2a6d&animation=fadeIn" alt="Farooq Anwar - Computer Science + Fintech" />
+<img width="100%" src="assets/banner.svg" alt="Farooq Anwar - Computer Science + Fintech" />
 
-```
-==============================================================
-  VOL. 01  //  ALPHARETTA, GA  //  EDITION 2026  //  ONLINE
-==============================================================
-```
+<br>
 
-<a href="https://linkedin.com/in/farooqmohammadanwar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://kingfarooq.github.io/"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:fmanwar3710@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/farooqmohammadanwar"><img src="https://img.shields.io/badge/LinkedIn-0b1113?style=for-the-badge&logo=linkedin&logoColor=9dffd3&labelColor=0b1113" alt="LinkedIn" /></a>
+<a href="https://kingfarooq.github.io/"><img src="https://img.shields.io/badge/Portfolio-0b1113?style=for-the-badge&logo=githubpages&logoColor=48e8ff&labelColor=0b1113" alt="Portfolio" /></a>
+<a href="mailto:fmanwar3710@gmail.com"><img src="https://img.shields.io/badge/Email-0b1113?style=for-the-badge&logo=gmail&logoColor=d2ff55&labelColor=0b1113" alt="Email" /></a>
 
 </div>
 
 <br>
 
-## FRONT PAGE // `whoami`
+## `whoami`
 
 CS student with a FinTech minor at Kennesaw State University and an undergraduate researcher in the First-Year Scholars Program.
 
@@ -24,13 +20,11 @@ I like projects that connect software to the physical world—from understanding
 
 Based in Alpharetta, GA. Open to internships and research opportunities, on-site or remote.
 
-```
---------------------------------------------------------------
-```
+---
 
-## HEADLINES // Featured Projects
+## Featured Projects
 
-### NO. 01 :: AI Traffic Congestion Optimization System
+### AI Traffic Congestion Optimization System
 
 Built a computer vision proof of concept to evaluate urban traffic bottlenecks from pre-captured road imagery.
 
@@ -40,7 +34,7 @@ Built a computer vision proof of concept to evaluate urban traffic bottlenecks f
 
 `Python` · `TensorFlow` · `OpenCV` · `LabelImg`
 
-### NO. 02 :: EMG-Powered Robotic Prosthetic Hand
+### EMG-Powered Robotic Prosthetic Hand
 
 Co-led a three-person team building a prosthetic hand controlled by muscle signals.
 
@@ -50,7 +44,7 @@ Co-led a three-person team building a prosthetic hand controlled by muscle signa
 
 `Arduino` · `C++` · `SolidWorks` · `MyoWare 2.0`
 
-### NO. 03 :: Erase the Cars, Rebuild the Road
+### Erase the Cars, Rebuild the Road
 
 Researching 3D scene reconstruction and moving-object removal using autonomous vehicle data.
 
@@ -60,11 +54,9 @@ Researching 3D scene reconstruction and moving-object removal using autonomous v
 
 `Python` · `Gaussian Splatting` · `Image Inpainting` · `Computer Vision`
 
-```
---------------------------------------------------------------
-```
+---
 
-## THE RECORD // Experience
+## Experience
 
 ### Undergraduate Research Assistant · Kennesaw State University
 <sub>Sep 2026 – Present · Marietta, GA · Hybrid</sub>
@@ -95,11 +87,9 @@ Provided technical troubleshooting and hardware/software recommendations, explai
 
 Officiated competitive youth matches, enforced safety standards, and resolved on-field disputes under pressure.
 
-```
---------------------------------------------------------------
-```
+---
 
-## CLASSIFIEDS // Tech Stack
+## Tech Stack
 
 | Area | Technologies |
 | :--- | :--- |
@@ -109,15 +99,13 @@ Officiated competitive youth matches, enforced safety standards, and resolved on
 | Embedded & CAD | Arduino, ESP32, SolidWorks |
 | Development Tools | Git, GitHub, VS Code |
 
-## SPORTS DESK // Outside of Code
+## Outside of Code
 
 **Soccer** · 10 years of competitive play · 5-year team captain & MVP recipient  
 **Martial Arts** · Taekwondo black belt & demonstration team member · 2 years of boxing
-
-<br>
 
 <p align="center">
   <i>Learn by building. Ship it. Repeat.</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0b0b14&stroke=05d9e8&strokeWidth=3&height=60&section=footer" alt="Footer banner" />
+<img width="100%" src="assets/footer.svg" alt="Farooq Anwar - ATL / everywhere" />
