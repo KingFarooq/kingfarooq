@@ -41,21 +41,21 @@ $ _
   <tr>
     <td width="50%" valign="top">
       <b>RESEARCH</b><br><br>
-      Undergraduate Research Assistant in the KSU First-Year Scholars Program. Removing moving objects from autonomous vehicle data and rebuilding the scene in 3D.
+      Undergraduate Research Assistant in the KSU First-Year Scholars Program under Dr. Soomok Lee. Researching 3D scene reconstruction and moving-object removal using autonomous vehicle data — Gaussian Splatting and multi-view image inpainting to evaluate road visibility across synchronized camera feeds.
     </td>
     <td width="50%" valign="top">
       <b>STUDYING</b><br><br>
-      Computer Science with a FinTech minor at Kennesaw State University.
+      Computer Science with a FinTech minor at Kennesaw State University. Previously attended FCS Innovation Academy (Information Technology major, Engineering minor, 3 Magnet Seals).
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>PREVIOUSLY</b><br><br>
-      Strategy Enablement Analyst Intern at VDart. Prototyped AI chatbots and agentic workflows.
+      <b>WORKING</b><br><br>
+      Retail Part Time Store Associate / Sales Support Representative at Office Depot. Technical troubleshooting and hardware/software recommendations in a high-traffic retail setting.
     </td>
     <td width="50%" valign="top">
       <b>OPEN TO</b><br><br>
-      Internships and research opportunities in AI, computer vision, and fintech.
+      Internships and research opportunities in AI, computer vision, and fintech. On-site or remote, Alpharetta GA area.
     </td>
   </tr>
 </table>
@@ -68,7 +68,78 @@ $ _
   <tr>
     <td align="center" width="33%"><b>Research Assistant</b><br><sub>KSU First-Year Scholars Program</sub></td>
     <td align="center" width="33%"><b>Prosthetic hand delivered</b><br><sub>to a Georgia Tech research lab</sub></td>
-    <td align="center" width="33%"><b>Taekwondo black belt</b><br><sub>plus competitive soccer and boxing</sub></td>
+    <td align="center" width="33%"><b>Taekwondo black belt</b><br><sub>plus 10 yrs soccer, 5-yr captain &amp; MVP</sub></td>
+  </tr>
+</table>
+
+---
+
+## Experience
+
+<table>
+  <tr>
+    <td width="70%" valign="top">
+      <b>Undergraduate Research Assistant</b> — Kennesaw State University Research<br>
+      <sub>Apprenticeship · Hybrid · Marietta, GA · Sep 2026 – Present</sub>
+    </td>
+    <td width="30%" align="right" valign="top"><sub>Python · Computer Vision</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Selected for the KSU First-Year Scholars Program under Dr. Soomok Lee. Investigate Gaussian Splatting and multi-view image inpainting to evaluate road visibility across synchronized camera feeds. Catalog frame datasets, perform image mask inspections, and run controlled experiments comparing single-image filling vs. multi-view reconstruction.
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td width="70%" valign="top">
+      <b>Strategy Enablement Analyst Intern</b> — VDart<br>
+      <sub>Internship · Hybrid · Alpharetta, GA · Aug 2025 – Feb 2026</sub>
+    </td>
+    <td width="30%" align="right" valign="top"><sub>AI · Agentic Workflows</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Designed and prototyped custom AI chatbot concepts for potential integration across internal company channels. Developed early-stage proof-of-concept workflows for AI content automation and agentic application design. Partnered cross-functionally during agile development sprints to support the enterprise Marketing Academy platform rollout.
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td width="70%" valign="top">
+      <b>Marketing and Research Intern</b> — KC Medical Care<br>
+      <sub>Internship · Alpharetta, GA · May 2025 – Oct 2025</sub>
+    </td>
+    <td width="30%" align="right" valign="top"><sub>HTML/CSS · SEO</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Designed and launched functional web pages for multiple clinical branches using HTML/CSS, expanding digital outreach. Collected and structured local market data to drive localized SEO strategies and social media outreach. Maintained strict confidentiality standards across all patient-facing marketing assets and documentation.
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td width="70%" valign="top">
+      <b>Retail Part Time Store Associate / Sales Support Representative</b> — Office Depot<br>
+      <sub>Part-time · On-site · Roswell, GA · Feb 2026 – Sep 2026</sub>
+    </td>
+    <td width="30%" align="right" valign="top"><sub>Technical Support</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Provide direct technical troubleshooting and hardware/software recommendations for customer devices in a high-traffic retail setup. Diagnose hardware issues and communicate technical solutions clearly to non-technical customers.
+    </td>
+  </tr>
+  <tr><td colspan="2"><hr></td></tr>
+  <tr>
+    <td width="70%" valign="top">
+      <b>Certified Youth Soccer Referee</b> — U.S. Soccer Federation<br>
+      <sub>Seasonal · United States · Aug 2023 – Dec 2024</sub>
+    </td>
+    <td width="30%" align="right" valign="top"><sub>Leadership</sub></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      Officiated competitive youth soccer matches, enforcing league regulations and match safety standards. Managed fast-paced match situations and resolved on-field disputes under pressure while maintaining game control.
+    </td>
   </tr>
 </table>
 
@@ -78,19 +149,9 @@ $ _
 
 | Project | What it does | Built with |
 |:--|:--|:--|
-| **AI Traffic Congestion Optimization System** | Custom CNN trained with the Adam optimizer and dropout that detects urban traffic bottlenecks from road imagery. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-374151?style=flat-square) |
-| **EMG-Powered Robotic Prosthetic Hand** | 3D-printed hand that turns analog muscle signals from MyoWare 2.0 sensors into servo positions. Delivered to a Georgia Tech research lab. | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-D32F2F?style=flat-square&logo=solidworks&logoColor=white) ![MyoWare 2.0](https://img.shields.io/badge/MyoWare%202.0-374151?style=flat-square) |
-| **Erase the Cars, Rebuild the Road** | First-Year Scholars research. Removes moving vehicles from autonomous driving scenes and reconstructs the empty road in 3D. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gaussian Splatting](https://img.shields.io/badge/Gaussian%20Splatting-7C3AED?style=flat-square) ![Image Inpainting](https://img.shields.io/badge/Image%20Inpainting-374151?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-374151?style=flat-square) |
-
-### More builds
-
-| Project | About |
-|:--|:--|
-| [**Portfolio site**](https://kingfarooq.github.io/) | Cyberpunk / neon portfolio built with vanilla web tech. |
-| **NEON TRACE** | Text-based cyberpunk narrative game where you play a forensic hacker. |
-| **ESP32-CAM Camera** | DIY digital camera built around an ESP32-CAM. |
-| **Minecraft clone** | Voxel world built from scratch with Three.js. |
-| **Draggable canvas gallery** | Interactive gallery built from scratch with GSAP. |
+| **AI Traffic Congestion Optimization System** | Trained a custom CNN using the Adam optimizer and dropout layers to evaluate urban traffic bottlenecks from pre-captured road imagery. Curated and annotated a dataset of 76 high-res road images targeting lane boundaries, crosswalks, and vehicle density. Presented proof-of-concept to industry partners at an Edge Solutions event. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![CNN](https://img.shields.io/badge/CNN-374151?style=flat-square) |
+| **EMG-Powered Robotic Prosthetic Hand** | Co-led a 3-person team to build a prosthetic hand with 3D-printed mechanical components and micro-servo actuation. Programmed Arduino control logic translating analog muscle signals from MyoWare 2.0 sensors into motor positions. Delivered prototype hardware and codebase to a Georgia Tech research laboratory. | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![SolidWorks](https://img.shields.io/badge/SolidWorks-D32F2F?style=flat-square&logo=solidworks&logoColor=white) ![MyoWare 2.0](https://img.shields.io/badge/MyoWare%202.0-374151?style=flat-square) |
+| **Erase the Cars, Rebuild the Road** | First-Year Scholars research project. Investigates Gaussian Splatting and multi-view image inpainting to reconstruct 3D traffic scenes with moving vehicles removed, evaluating road visibility across synchronized camera feeds. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Gaussian Splatting](https://img.shields.io/badge/Gaussian%20Splatting-7C3AED?style=flat-square) ![Image Inpainting](https://img.shields.io/badge/Image%20Inpainting-374151?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-374151?style=flat-square) |
 
 ---
 
@@ -99,10 +160,27 @@ $ _
 | | |
 |:--|:--|
 | **Languages** | ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB) ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C) ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6) ![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=r&logoColor=276DC3) |
-| **ML and Vision** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C) ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=E70488) |
+| **ML and Vision** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00) ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8) ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF) ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=E70488) ![LabelImg](https://img.shields.io/badge/LabelImg-0d1117?style=for-the-badge) |
 | **Web** | ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB) ![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=3FCF8E) ![Three.js](https://img.shields.io/badge/Three.js-0d1117?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-0d1117?style=for-the-badge&logo=githubpages&logoColor=FFFFFF) |
 | **Embedded and CAD** | ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=00979D) ![ESP32](https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=E7352C) ![SolidWorks](https://img.shields.io/badge/SolidWorks-0d1117?style=for-the-badge&logo=solidworks&logoColor=D32F2F) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF) ![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) |
+
+---
+
+## Leadership and Athletics
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Competitive Soccer</b><br><br>
+      10 years as a competitive player. 5-year Team Captain and MVP recipient.
+    </td>
+    <td width="50%" valign="top">
+      <b>Martial Arts</b><br><br>
+      Black Belt in Taekwondo (Demonstration Team Member). 2 years active boxing training.
+    </td>
+  </tr>
+</table>
 
 ---
 
